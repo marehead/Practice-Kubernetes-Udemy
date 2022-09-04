@@ -1,11 +1,13 @@
-# practice-kubernetes-Udemy
+# Pratica-kubernetes-Udemy
 
 ## Materias e Links: fonte
+
+### instalação do kubectl kubrenetes e minikube via prompt de comando
+
+
 ![kubectl e kubernetes no prompt de comando](https://user-images.githubusercontent.com/96207587/188328816-d662a44b-5fa3-4bfb-9e37-44e476c8f359.png)
 
-- Código Fonte de Apoio:
-
-https://github.com/juniorporfirio/udemy-wordpress
+- Código Fonte de Apoio: https://github.com/juniorporfirio/udemy-wordpress
 
 - Instalação Minikube:
 https://kubernetes.io/docs/tasks/tools/install-minikube/
