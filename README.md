@@ -3,7 +3,7 @@
 ## Materias e Links: fonte
 ![kubectl e kubernetes no prompt de comando](https://user-images.githubusercontent.com/96207587/188328816-d662a44b-5fa3-4bfb-9e37-44e476c8f359.png)
 
-- Código Fonte de Apoio:![Uploading kubectl e kubernetes no prompt de comando.png…]()
+- Código Fonte de Apoio:
 
 https://github.com/juniorporfirio/udemy-wordpress
 
